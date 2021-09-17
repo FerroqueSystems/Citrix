@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-The script parses through bind zone files and extracts the necessary informaiton to add to Citrix ADC
+The script parses through bind zone files and extracts the necessary information to translate the entries to Citrix ADC
 	
 ## Technologies
 Project is created with:
